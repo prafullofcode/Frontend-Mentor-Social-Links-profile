@@ -60,13 +60,13 @@ figure address{
     color: var(--green);
     margin-top: 1rem;
     font-size: 1.4rem;
-    font-weight: 500;
+    font-weight: 700;
     font-style: normal;
 }
 .user-description-text{
     text-align: center;
     font-weight: 200;
-    color: whitesmoke;
+    color: white;
     font-size: 1.4rem;
     padding: 1rem;
 }
@@ -88,6 +88,7 @@ figure address{
     justify-content: center;
     transition: ease-in 1.5ms all;
     color: white;
+    font-weight: 700;
 }
 
 .social-link-container:hover{
