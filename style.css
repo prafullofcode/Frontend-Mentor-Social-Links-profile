@@ -28,7 +28,7 @@ body{
 main{
     background-color: var(--grey_800);
     max-width: 40rem;
-    margin: 8rem auto 0 auto;
+    margin: 18rem auto 0 auto;
     padding: 4.5rem;
     color: white;
     border-radius: 1rem;
